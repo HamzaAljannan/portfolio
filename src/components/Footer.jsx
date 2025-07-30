@@ -1,5 +1,5 @@
-// import React from 'react'
-import { FaGithubSquare, FaInstagram } from 'react-icons/fa'
+
+import { FaGithubSquare,  } from 'react-icons/fa'
 
 const Footer = () => {
   return (
@@ -7,8 +7,8 @@ const Footer = () => {
         <div className='space-y-4'>
             <h3 className='text-2xl text-gray-200 font-semibold'>Hamza Aljannan</h3>
             <div className='flex flex-row gap-6 text-gray-400 text-4xl'>
-                <a href="#"><FaGithubSquare /></a>
-                <a href="#"><FaInstagram /></a>
+                <a href="https://github.com/HamzaAljannan"><FaGithubSquare /></a>
+                
             </div>
 
         </div>

@@ -1,6 +1,4 @@
-// import React from "react"
-// import { AiFillLinkedin, AiFillGithub } from "react-icons/ai"
-// import { motion } from "framer-motion"
+
 import Reveal from "./Reveal"
 
 const Contact = () => {
@@ -11,40 +9,6 @@ const Contact = () => {
         <h2 className='text-3xl font-bold text-gray-200 mb-8 text-center'>Contact</h2>
         <div className=" place-items-center">
             <div>
-                {/* <div className="text-gray-300 my-3">
-                    <h3 className="text-4xl font-semibold mb-5">About <span>Me</span></h3>
-                    <p className="text-justify leading-7 w-11/12 mx-auto">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa
-                        eos, quam vel quisquam, explicabo sit labore dignissimos optio
-                        ratione quibusdam doloribus pariatur consequuntur sint.
-                        Reprehenderit cupiditate possimus facere quasi voluptatem?
-                    </p>
-                </div>
-
-                <div className="flex mt-10 items-center gap-7">
-                    <div className="bg-gray-800/40 p-4 rounded-lg">
-                        <h3 className="md:text-4xl text-2xl font-semibold text-white">11
-                            <span>+</span>
-                        </h3>
-                        <p className="text-xs md:text-base"><span>Projects</span></p>
-                    </div>
-
-                    <div className="bg-gray-800/40 p-5 rounded-lg">
-                        <h3 className="md:text-4xl text-2xl font-semibold text-white">5
-                            <span>+</span>
-                        </h3>
-                        <p className="text-xs md:text-base"><span>years of experience</span></p>
-                    </div>
-
-                    <div className="bg-gray-800/40 p-5 rounded-lg">
-                        <h3 className="md:text-4xl text-2xl font-semibold text-white">30
-                            <span>+</span>
-                        </h3>
-                        <p className="text-xs md:text-base"><span>happy clients</span></p>
-                    </div>
-
-                </div> */}
-
             </div>
 
             <form

@@ -1,5 +1,4 @@
 import Contact from "./components/Contact";
-// import Experience from "./components/Experience";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -14,7 +13,6 @@ export default function App() {
       <Hero/>
       <Skills/>
       <Portfolio/>
-      {/* <Experience/> */}
       <AboutMe />
       <Contact/>
       <Footer/>

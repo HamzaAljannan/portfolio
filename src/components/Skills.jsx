@@ -1,4 +1,4 @@
-// import React from "react"
+
 import {
   DiHtml5,
   DiCss3,
@@ -7,9 +7,7 @@ import {
   DiJavascript1,
   DiReact,
   DiGithubBadge,
-  // DiNodejsSmall,
-  // DiMongodb,
-  // DiGithubBadge,
+  
 } from "react-icons/di"
 import { SiTailwindcss, SiGit } from "react-icons/si"
 import Reveal from "./Reveal"
@@ -29,15 +27,8 @@ const skills = [
         { name: 'GitHub', icon: <DiGithubBadge className='text-gray-300' /> }
       ],
     },
-    // {
-    //   category: 'Fullstack',
-    //   technologies: [
-    //     { name: 'Node Js', icon: <DiNodejsSmall className='text-green-500' /> },
-    //     { name: 'MongoDB', icon: <DiMongodb className='text-green-600' /> },
-    //     { name: 'React', icon: <DiReact className='text-blue-500' /> },
-    //     { name: 'GitHub', icon: <DiGithubBadge className='text-gray-600' /> },
-    //   ],
-    // },
+    
+      
   ]
 
 const Skills = () => {

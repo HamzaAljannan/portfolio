@@ -1,4 +1,4 @@
-// AboutMe.jsx
+
 import Reveal from "./Reveal";
 
 const AboutMe = () => {
@@ -21,7 +21,7 @@ const AboutMe = () => {
         <div className="flex justify-center mt-10 items-center gap-7">
           <div className="bg-gray-800/40 p-4 rounded-lg text-center">
             <h3 className="md:text-4xl text-2xl font-semibold text-white">
-              13<span>+</span>
+              11<span>+</span>
             </h3>
             <p className="text-xs md:text-base">
               <span>Projects</span>

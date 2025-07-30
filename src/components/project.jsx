@@ -1,4 +1,4 @@
-// import React from 'react';
+
 import pro1 from "../assets/pro1.png"
 import pro2 from "../assets/pro2.png"
 import pro3 from "../assets/pro3.png"
@@ -10,132 +10,108 @@ import pro8 from "../assets/pro8.png"
 import pro9 from "../assets/pro9.png"
 import pro10 from "../assets/pro10.png"
 import pro11 from "../assets/pro11.png"
-import pro12 from "../assets/pro12.png"
-import pro13 from "../assets/pro13.png"
-// import project1 from "../assets/project1.png"
-// import project2 from "../assets/project2.png"
-// import project4 from "../assets/project4.png"
-// import project5 from "../assets/project5.png"
-// import project6 from "../assets/project6.png"
+
 import {  AiOutlineGithub } from 'react-icons/ai'
 import Reveal from './Reveal';
 
 const projects = [
     {
       img: pro1,
-      title: "1. Netfilx",     
+      title: "1. Real-estate-website",     
       description: "React ",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://real-estate-website-gamma-nine.vercel.app",
+        github: "https://github.com/HamzaAljannan/Real-estate-website",
       },
     },
     {
       img: pro2,
-      title: "2. Find Your Perfect Property",
+      title: "2. Scaling Success",
       description: "React",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://scaling-success.vercel.app",
+        github: "https://github.com/HamzaAljannan/Scaling-Success",
       },
     },
     {
       img: pro3,
-      title: "3. Scaling Success",
-      description: "React",
+      title: "3. cozweb",
+      description: "React + Tailwind",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://cozweb-ten.vercel.app",
+        github: "https://github.com/HamzaAljannan/cozweb",
       },
     },
     {
       img: pro4,
-      title: "4. cozweb",
-      description: "React + Tailwind",
+      title: "4. Template_Four",
+      description: "HTML + CSS",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://hamzaaljannan.github.io/Template_Four/",
+        github: "https://github.com/HamzaAljannan/Template_Four",
       },
     },
     {
       img: pro5,
-      title: "5. SecureVPN",
-      description: "Tailwind",
+      title: "5. My Life, My Stories",
+      description: "HTML + CSS + JS",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://hamzaaljannan.github.io/My-Life-My-Stories/",
+        github: "https://github.com/HamzaAljannan/My-Life-My-Stories",
       },
     },
     {
       img: pro6,
-      title: "6. Template_Four",
-      description: "HTML + CSS",
+      title: "6. we are kasper",
+      description: "HTNL + CSS",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://hamzaaljannan.github.io/we-are-kasper/",
+        github: "https://github.com/HamzaAljannan/we-are-kasper",
       },
     },
     {
       img: pro7,
-      title: "7. My Life, My Stories",
-      description: "HTML + CSS + JS",
+      title: "7. Photo gallery",
+      description: "HTML + CSS + JS ",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://hamzaaljannan.github.io/Photo-gallery/",
+        github: "https://github.com/HamzaAljannan/Photo-gallery",
       },
     },
     {
       img: pro8,
-      title: "8. we are kasper",
-      description: "HTNL + CSS",
+      title: "8. Your Creative Web Template",
+      description: "HTML + CSS",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://hamzaaljannan.github.io/Your-Creative-Web-Template/",
+        github: "https://github.com/HamzaAljannan/Your-Creative-Web-Template",
       },
     },
     {
       img: pro9,
-      title: "9. Photo gallery",
-      description: "HTML + CSS + JS ",
+      title: "9. Become a Developer",
+      description: "Bootstrap",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://hamzaaljannan.github.io/Become-a-Developer/",
+        github: "https://github.com/HamzaAljannan/Become-a-Developer",
       },
     },
     {
       img: pro10,
-      title: "10. Your Creative Web Template",
-      description: "HTML + CSS",
+      title: "10. product management system",
+      description: "HTML + CSS + JS",
       links: {
-        site: "#",
-        github: "#",
+        site: "https://hamzaaljannan.github.io/product-management-system/",
+        github: "https://github.com/HamzaAljannan/product-management-system",
       },
     },
     {
       img: pro11,
-      title: "11. Become a Developer",
-      description: "Bootstrap",
-      links: {
-        site: "#",
-        github: "#",
-      },
-    },
-    {
-      img: pro12,
-      title: "12. product management system",
+      title: "11. weather",
       description: "HTML + CSS + JS",
       links: {
-        site: "#",
-        github: "#",
-      },
-    },
-    {
-      img: pro13,
-      title: "13. weather",
-      description: "HTML + CSS + JS",
-      links: {
-        site: "#",
-        github: "#",
+        site: "https://hamzaaljannan.github.io/weather/",
+        github: "https://github.com/HamzaAljannan/weather",
       },
     },
   ]

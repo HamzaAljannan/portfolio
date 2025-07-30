@@ -1,4 +1,4 @@
-// import React, { useState } from 'react'
+
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai'
 import { Link } from 'react-scroll'
 import { motion } from 'framer-motion'
@@ -43,7 +43,7 @@ return (
                 <li><Link className="hover:text-purple-400" to="hero" smooth={true} offset={-100} duration={500}>hero</Link></li>
                 <li><Link className="hover:text-purple-400"to="skills" smooth={true} offset={-80} duration={500}>skills</Link></li>
                 <li><Link className="hover:text-purple-400"to="project" smooth={true} offset={-80} duration={500}>project</Link></li>
-                <li><Link className="hover:text-purple-400"to="about me" smooth={true} offset={-100} duration={500}>about me</Link></li>
+                <li><Link className="hover:text-purple-400"to="about me" smooth={true} offset={-150} duration={500}>about me</Link></li>
                 <li><Link className="hover:text-purple-400"to="contact" smooth={true} offset={-80} duration={500}>Contact</Link></li>
             </ul>
 
