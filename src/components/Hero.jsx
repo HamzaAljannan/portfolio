@@ -44,7 +44,7 @@ return (
                 className="text-gray-200 md:text-7xl text-5xl tracking-tight mb-4"
                 >
                     HEY, I AM <br/>
-                    <span className="text-purple-500">Hamza Aljannan</span>
+                    <span className="text-purple-500">Hamza Al Jannan</span>
                 </motion.p>
 
                 <motion.p
